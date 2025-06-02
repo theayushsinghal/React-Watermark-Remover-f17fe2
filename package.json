@@ -1,0 +1,30 @@
+{
+  "name": "react-watermark-remover",
+  "version": "1.0.0",
+  "description": "A browser-based tool for removing watermarks from images and videos using Canvas API and Web APIs",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "file-saver": "^2.0.5",
+    "react-dropzone": "^14.2.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
